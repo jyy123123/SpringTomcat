@@ -9,5 +9,6 @@
         <module name="Spring_tomcat" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
   </component>
 </project>
